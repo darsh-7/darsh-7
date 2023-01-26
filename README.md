@@ -6,14 +6,14 @@
 </summary>
 <table>
   <tr>
-  <td>
+      <td>
 <a href="https://github.com/reiyuchan/"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&theme=onedark" />
   </a>
   </td>
   <td>
 <a href="https://github.com/reiyuchan/"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=darsh-7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darsh-7&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
   </td>
   </tr>
