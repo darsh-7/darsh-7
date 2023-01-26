@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there my name is Mostafa Ahmed 👋
 - 💻 I am a student in computer science, I'd love to program new useful software for users and learn new skills.
 - 🤔 I'm looking to make the globe a better place 
 <details>
