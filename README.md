@@ -1,6 +1,6 @@
 # Hi there 👋
-
-
+- 💻 I am a student in computer science, I'd love to program new useful software for users and learn new skills.
+- 🤔 I'm looking for help to make the globe a better place
 <details>
 <summary>
 </summary>
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 </details>
 
-<p align="center"><i>Contact me anytime !😊</i>
+<p align="center"><i>💬 Contact me anytime !😊</i>
 <p align="center">
 <a href="https://github.com/darsh-7/"><img alt="Google Developers" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 <a href="[https://devlibrary.withgoogle.com/authors/skydoves](https://www.linkedin.com/in/darsh7/)"><img alt="Google Developers" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
