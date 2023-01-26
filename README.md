@@ -1,6 +1,6 @@
 # Hi there 👋
 - 💻 I am a student in computer science, I'd love to program new useful software for users and learn new skills.
-- 🤔 I'm looking for help to make the globe a better place
+- 🤔 I'm looking to make the globe a better place
 <details>
 <summary>
 </summary>
