@@ -29,7 +29,9 @@
 <p align="center"><i>💬 Contact me anytime !😊</i>
 <p align="center">
 <a href="https://github.com/darsh-7/"><img alt="Google Developers" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="[https://devlibrary.withgoogle.com/authors/skydoves](https://www.linkedin.com/in/darsh7/)"><img alt="Google Developers" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="[](https://www.linkedin.com/in/darsh7/)"><img alt="Google Developers" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://leetcode.com/MRDarsh/"><img alt="Google Developers" src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  
 </p>
 
 <!--
