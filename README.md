@@ -4,21 +4,22 @@
 <details>
 <summary>
 </summary>
+<!--
 <table>
   <tr>
       <td>
-<a href="https://github.com/reiyuchan/"> 
+<a href="https://github.com/darsh-7/"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&theme=onedark" />
   </a>
   </td>
   <td>
-<a href="https://github.com/reiyuchan/"> 
+<a href="https://github.com/darsh-7/"> 
   <img src="https://github-readme-stats.vercel.app/api?username=darsh-7&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
   </td>
   </tr>
   </table>
-  
+  -->
   #### Most IDE I am using :
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual_Studio-C994EE?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
