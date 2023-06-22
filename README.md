@@ -12,14 +12,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&theme=onedark" />
   </a>
   </td>
-  <td>
     <!--
+  <td>
 <a href="https://github.com/darsh-7/"> 
   <img src="https://github-readme-stats.vercel.app/api?username=darsh-7&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
-      -->
+      
   </td>
   </tr>
+  -->
   </table>
 
   #### Most IDE I am using :
