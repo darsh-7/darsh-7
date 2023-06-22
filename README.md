@@ -13,9 +13,11 @@
   </a>
   </td>
   <td>
+    <!--
 <a href="https://github.com/darsh-7/"> 
   <img src="https://github-readme-stats.vercel.app/api?username=darsh-7&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
   </a>
+      -->
   </td>
   </tr>
   </table>
