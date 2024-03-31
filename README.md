@@ -154,9 +154,10 @@
 
 <br>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 <p align="center">
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-   <p align="left"> <img src="https://komarev.com/ghpvc/?username=darsh-7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="darsh-7" /> </p>  
+  
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=darsh-7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="darsh-7" /> </p>  
   <h3 align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA3ZXZqeWdoeDFjZ3BwY2psdjZjNGk2eTF4M2w1c2I4OHp5Zml3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gwuuaOAadXMp2JdHET/giphy.gif" width ="20">Contact me anytime !<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRjMjAzYmYyOGhxYzJobHNncGFjeHVmc3ZyajI2cGx1ZnhmN3R5aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m1jI0nobstPFfYFZLA/giphy.gif" width ="20">
   </h3>
