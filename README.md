@@ -9,9 +9,9 @@
 > - 🤔 Looking to make the globe a better place 
 -->
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;Problem+Solver;Open-Source;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place<3"></a>
-</p>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
