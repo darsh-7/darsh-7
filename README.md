@@ -1,20 +1,24 @@
   <h1 align="center">Hi , I'm Mostafa Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <div align="center">
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1a25vaGV4bWI1ZjA1ZXA1YnpkZDlxaDc1eWhidHR3eWc5ZmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width ="20%">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1a25vaGV4bWI1ZjA1ZXA1YnpkZDlxaDc1eWhidHR3eWc5ZmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" height="200">
+</div>
+
+
+<div align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=900&height=20&lines=HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;Problem+Solver;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place :)"></a>
 </div>
 <!--
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;Problem+Solver;Open-Source;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place" alt="Headline" />
+</div>
 > <br>
 > - 💻 Student in computer science, I'd love to program new useful software for users and learn new skills.
 > - 🤔 Looking to make the globe a better place 
 -->
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;Problem+Solver;Open-Source;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place<3"></a>
-</div>
-
+<div style="height:10px;">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+</div>
 <details>
 <summary>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><h3> Github Stats </h3>
