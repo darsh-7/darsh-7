@@ -1,4 +1,4 @@
-  <h1 align="center">Hi , I'm Mostafa Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
+  <h1 align="center">Hi , I'm Darsh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
 <div align="center">
    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1a25vaGV4bWI1ZjA1ZXA1YnpkZDlxaDc1eWhidHR3eWc5ZmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" height="200">
@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=900&height=20&lines=HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;Problem+Solver;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place+:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=900&height=20&lines=HI++👋;I'm+Darsh;💻+Computer+Science+Student,;Problem+Solver;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place+:)"></a>
 </div>
 <!--
 <div align=center>
