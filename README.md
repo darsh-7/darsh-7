@@ -1,8 +1,8 @@
   <h1 align="center">Hi , I'm Mostafa Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1>
 
-<p align="center">
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1a25vaGV4bWI1ZjA1ZXA1YnpkZDlxaDc1eWhidHR3eWc5ZmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width ="200">
-</p>
+<div align="center">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjh1a25vaGV4bWI1ZjA1ZXA1YnpkZDlxaDc1eWhidHR3eWc5ZmptdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width ="20%">
+</div>
 <!--
 > <br>
 > - 💻 Student in computer science, I'd love to program new useful software for users and learn new skills.
@@ -10,13 +10,10 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=20&center=true&vCenter=true&width=600&height=100&lines=HI++👋;I'm+Mostafa+Ahmed;💻+Computer+Science+Student,;Problem+Solver;Open-Source;I'd+love+to+program+new+useful+software+for+users;and+learn+new+skills;🤔+Looking+to+make+the+globe+a+better+place<3"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-
 
 <details>
 <summary>
@@ -149,12 +146,13 @@
 
 
 
-
 -----
 
 <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
 <p align="center">
   
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=darsh-7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="darsh-7" /> </p>  
@@ -165,8 +163,12 @@
 
 <p align="center">
 <a href="https://github.com/darsh-7/"><img alt="Google Developers" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+&emsp;
 <a href="https://www.linkedin.com/in/darsh7"><img alt="Google Developers" src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-  <a href="https://leetcode.com/MRDarsh/"><img alt="Google Developers" src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+&emsp;
+<a target="_blank" href="mailto:mostafa.ahmed.ali.dev@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+ <!-- <a href="https://leetcode.com/MRDarsh/"><img alt="Google Developers" src="https://img.shields.io/badge/LeetCode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   
 </p>
 
