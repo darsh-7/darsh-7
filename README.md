@@ -56,11 +56,7 @@
       
   </td>
   -->
- 
-  
   </table>
-
-
 
 </div>
 
@@ -85,7 +81,7 @@
 <div>
   <h3>
     Most Porgrams, Tools & Frameworks I am using:<br><br>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=docker,figma,flutter,firebase,stackoverflow,devto,github,gradle,postman,cloudflare,discord,linux,ubuntu,windows&perline=14" />
   </a>
   </h3>
@@ -94,7 +90,7 @@
 <div>
   <h3>
     language I am using:<br><br>
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=java,kotlin,dart,go,cs,cpp,sqlite,mysql,html,css&perline=14" />
   </a>
   </h3>
