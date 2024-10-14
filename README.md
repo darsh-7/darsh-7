@@ -78,11 +78,21 @@
 
 
 
+
 <div>
   <h3>
-    Most Porgrams, Tools & Frameworks I am using:<br><br>
+    Most Frameworks I am using:<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,figma,flutter,firebase,stackoverflow,devto,github,gradle,postman,cloudflare,discord,linux,ubuntu,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,react,firebase&perline=14" />
+  </a>
+  </h3>
+</div>
+
+<div>
+  <h3>
+    Most Porgrams & Tools I am using:<br><br>
+  <a>
+    <img src="https://skillicons.dev/icons?i=docker,figma,npm,github,firebase,gradle,stackoverflow,devto,github,postman,discord,linux,ubuntu,windows&perline=14" />
   </a>
   </h3>
 </div>
@@ -91,7 +101,7 @@
   <h3>
     language I am using:<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,dart,go,cs,cpp,sqlite,mysql,html,css&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,js,ts,java,go,cs,cpp,sqlite,mysql,html,css&perline=14" />
   </a>
   </h3>
 </div>
