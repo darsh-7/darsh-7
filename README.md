@@ -92,7 +92,7 @@
   <h3>
     Most Porgrams & Tools I am using:<br><br>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,figma,npm,github,firebase,gradle,stackoverflow,devto,github,postman,discord,linux,ubuntu,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=docker,figma,npm,github,gradle,stackoverflow,devto,github,postman,discord,linux,ubuntu,windows&perline=14" />
   </a>
   </h3>
 </div>
