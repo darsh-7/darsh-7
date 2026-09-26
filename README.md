@@ -10,8 +10,8 @@
 
 ## About
 
-- **Project Manager & Full-Stack React Native Developer at [Tapi](https://www.tapi.co/)** (Cairo): I manage the product life cycle and the tech and testing teams, and own the React Native app (100K+ downloads on Google Play) and its Node.js services: MongoDB, Redis, Socket.IO, MinIO.
-- Built Tapi's first mobile app in **Flutter** (BLoC, Socket.IO chat, WebRTC calls).
+- **Project Manager & Full-Stack React Native Developer at Tapi** (Cairo): I manage the product life cycle and lead the development and testing teams for a simple CRM-style business app, and lead its React Native mobile app (300K+ downloads) and Node.js backend.
+- Built Tapi's first mobile app in **Flutter** (BLoC architecture, real-time chat).
 - Builds native **Android** apps in **Kotlin** (Jetpack Compose, Room, Hilt, Retrofit).
 - Former **Teaching Assistant at AAST**: Database, Advanced Database, Data Mining and Data Structures labs.
 - Publishes indie Android apps under **[D7 Labs](https://darsh-7.github.io/d7labs/)**.
